@@ -11,7 +11,7 @@
         android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Type to-do thing: "
+        android:text="@string/type_to_do_thing"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <EditText
